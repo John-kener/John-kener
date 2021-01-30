@@ -61,7 +61,7 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 <a href="https://github.com/john-kener">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=radical" alt="Vimal's github stats"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=radical" alt="John's github stats"/>
 </a>
 <a href="https://github.com/john-kener">
   <img align="center" src="https://github-readme-status.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
