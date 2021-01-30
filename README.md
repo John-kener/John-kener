@@ -63,8 +63,8 @@
 <a href="https://github.com/john-kener">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=radical" alt="Vimal's github stats"/>
 </a>
-<a href="https://github.com/vimalcvs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
+<a href="https://github.com/john-kener">
+  <img align="center" src="https://github-readme-status.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
 </a>
 
 
