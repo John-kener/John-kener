@@ -4,8 +4,13 @@
 ---
 <img src="https://github.com/John-kener/John-kener/blob/main/images%20(8)-1.jpg" width="300%">
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
-  <br>
+<div align="center">
+
+<img align="centre" src="https://raw.githubusercontent.com/john-kener/John-kener/main/Developer.gif"/>
+
+</div>
+
+  
   <samp>
     I'm John Kener
     <br>
@@ -59,7 +64,7 @@
 
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
+*NOTE: Top languages does not indicate my skill level or something like that...*
 
 <a href="https://github.com/john-kener">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=radical" alt="Vimal's github stats"/>
@@ -68,14 +73,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
 </a>
 
+<p align="center">
+<a href="https://github.com/john-kener/THIRD-EYE"><img title="THIRD-EYE" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=THIRD-EYE&theme=dark"></a>
+<a href="https://github.com/john-kener/Evil-spammer"><img title="Evil-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Evil-spammer&theme=dark"></a>
+<a href="https://github.com/john-kener/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Termux-Banner&theme=dark"></a>
+<a href="https://github.com/john-kener/infect"><img title="infect" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=infect&theme=dark"></a>
+</p>
+
 
 <div align="center">
-
-<img align="centre" src="https://raw.githubusercontent.com/john-kener/John-kener/main/Developer.gif"/>
-
-</div>
-
-<div align="center">
+<img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
+  <br>
 
 ### Show some ❤️ by starring some of the repositories!
 
