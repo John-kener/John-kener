@@ -33,7 +33,7 @@
   <img align="left" alt="john's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://m.facebook.com/profile.php?id=100057560824177">
-  <img align="left" alt="Vimal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="John's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </div>
 
@@ -58,13 +58,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bash/bash.png"></code>
 
 
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 <a href="https://github.com/john-kener">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=radical" alt="John's github stats"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=radical" alt="Vimal's github stats"/>
 </a>
 <a href="https://github.com/john-kener">
-  <img align="center" src="https://github-readme-status.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
 </a>
 
 
