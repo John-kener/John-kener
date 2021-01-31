@@ -74,13 +74,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
 </a>
 
-<p align="center">
+</br>
+<p align="left">
 <a href="https://github.com/john-kener/THIRD-EYE"><img title="THIRD-EYE" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=THIRD-EYE&theme=dark"></a>
+</br>
 <a href="https://github.com/john-kener/Evil-spammer"><img title="Evil-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Evil-spammer&theme=dark"></a>
+</br>
 <a href="https://github.com/john-kener/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Termux-Banner&theme=dark"></a>
+</br>
 <a href="https://github.com/john-kener/infect"><img title="infect" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=infect&theme=dark"></a>
 </p>
-
+</br>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
