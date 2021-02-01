@@ -65,7 +65,7 @@
 <a href="https://github.com/john-kener">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
 </a>
-
+</br>
 </br>
 <p align="left">
 <a href="https://github.com/john-kener/THIRD-EYE"><img title="THIRD-EYE" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=THIRD-EYE&theme=dark"></a>
