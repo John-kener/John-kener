@@ -31,16 +31,16 @@
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<div align="center">
+<div align="left">
 
 <br/>
 <br/>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 <a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
 <a href="https://bit.ly/3pHwbVM"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
