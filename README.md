@@ -33,27 +33,19 @@
 
 <div align="center">
 
-<a href="https://github.com/john-kener">
-  <img align="left" alt="john's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/john_kener">
-  <img align="left" alt="john's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://m.facebook.com/profile.php?id=100057560824177">
-  <img align="left" alt="John's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-</div>
-
-
 <br/>
 <br/>
 
+<p align="center">
+<a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
+</p>
 
-- 💪 I’m currently working on [Cyber-warriors community ](http://t.me/by_sstp)
-- 🌱 I’m currently learning programming 
-- 💬 Ask me about any problem with programming or about social or technology issues.
-- 📫 contact me : Through above social media platforms
-- ⚡  advise  : Coding  is not  a fun  😂
+<p align="center">
+<a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
+<a href="https://bit.ly/3pHwbVM"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+</br>
+</br>
 
 **Languages and Tools:**  
 
