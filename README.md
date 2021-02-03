@@ -1,5 +1,5 @@
 
-### HELLO TRAINING HACKERS, THIS IS MY GITHUB PAGE!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### HELLO...!!! THIS IS MY GITHUB PAGE!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ---
 <img src="https://github.com/John-kener/John-kener/blob/main/images%20(8)-1.jpg" width="300%">
