@@ -68,7 +68,7 @@
 </br>
 </br>
 <p align="left">
-<a href="https://github.com/john-kener/THIRD-EYE"><img title="THIRD-EYE" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=THIRD-EYE&theme=dark"></a>
+<a href="https://github.com/john-kener/Hide-it"><img title="Hide-it" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Hide-it&theme=dark"></a>
 </br>
 <a href="https://github.com/john-kener/Evil-spammer"><img title="Evil-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Evil-spammer&theme=dark"></a>
 </br>
