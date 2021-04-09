@@ -18,9 +18,7 @@
     <br>
     Currently studying coding and oparating groups ...!😁🎓 !
     <br>
-    OWNER OF THE CYBER WARRIORS COMMUNITY
-    <br>
-    ●➤☠ I DON'T CARE MY ENEMIES EVEN FOR A CENT😂
+    OWNER OF THE SL CYBER WARRIORS COMMUNITY
   </samp>
 </p>
 
