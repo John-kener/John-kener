@@ -16,7 +16,7 @@
   <samp>
     I'm John Kener
     <br>
-    Currently studying coding and oparating groups ...!😁🎓 !
+    Currently studying coding ...!
     <br>
     OWNER OF THE SL CYBER WARRIORS COMMUNITY
   </samp>
@@ -34,11 +34,11 @@
 <br/>
 <br/>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 <a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
 <a href="https://bit.ly/3pHwbVM"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
@@ -54,16 +54,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bash/bash.png"></code>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-
-*NOTE: Top languages does not indicate my skill level or something like that...*
 
 <a href="https://github.com/john-kener"><img title="John-kener" src="https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-<a href="https://github.com/john-kener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
-</a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-kener&show_icons=true&locale=en&layout=compact&theme=dark" alt="john-kener" /></p>
+
 </br>
+</br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 </br>
 <p align="left">
 <a href="https://github.com/john-kener/Hide-it"><img title="Hide-it" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Hide-it&theme=dark"></a>
