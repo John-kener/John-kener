@@ -1,5 +1,5 @@
 
-### HELLO...!!! THIS IS MY GITHUB PAGE!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Hello I'm John Kener ❴Owner of Sl Cyber Warriors™|SRI LANKA 🇱🇰 ❵&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ---
 <img src="https://github.com/John-kener/John-kener/blob/main/images%20(8)-1.jpg" width="300%">
@@ -9,10 +9,11 @@
 <img align="centre" src="https://raw.githubusercontent.com/john-kener/John-kener/main/Developer.gif"/>
 
 </div>
-
+</p>
 </br>
 </br>
-  
+<p align="center">
+<b>
   <samp>
     I'm John Kener
     <br>
@@ -20,20 +21,16 @@
     <br>
     OWNER OF THE SL CYBER WARRIORS COMMUNITY
   </samp>
+</b>
 </p>
 
 <br>
 <div align="center">
-
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=john-kener&label=Views&color=blue&style=plastic" alt="vimalcvs" /> </p>
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-<div align="left">
-
+<div align="center">
 <br/>
-<br/>
-
 <p align="center">
 <a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
 </p>
@@ -60,14 +57,12 @@
 <a href="https://github.com/john-kener"><img title="John-kener" src="https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-kener&show_icons=true&locale=en&layout=compact&theme=dark" alt="john-kener" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-kener&show_icons=true&locale=en&layout=compact&theme=dark" alt="john-kener" /></p>
 
-</br>
 </br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 </br>
-<p align="left">
+<p align="center">
 <a href="https://github.com/john-kener/Hide-it"><img title="Hide-it" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Hide-it&theme=dark"></a>
 </br>
 <a href="https://github.com/john-kener/Evil-spammer"><img title="Evil-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Evil-spammer&theme=dark"></a>
