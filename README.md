@@ -63,15 +63,16 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 </br>
 <p align="center">
+<a href="https://github.com/john-kener/Gallery-Seeker"><img title="Gallery-Seeker" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Gallery-Seeker&theme=dark"></a>
+</br>
 <a href="https://github.com/john-kener/Hide-it"><img title="Hide-it" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Hide-it&theme=dark"></a>
+</br>
+<a href="https://github.com/john-kener/T-Manager"><img title="T-Manager" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=T-Manager&theme=dark"></a>
 </br>
 <a href="https://github.com/john-kener/Evil-spammer"><img title="Evil-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Evil-spammer&theme=dark"></a>
 </br>
 <a href="https://github.com/john-kener/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Termux-Banner&theme=dark"></a>
 </br>
-<a href="https://github.com/john-kener/infect"><img title="infect" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=infect&theme=dark"></a>
-</br>
-<a href="https://github.com/john-kener/shl_v1"><img title="WHATSAPP BOT" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=shl_v1&theme=dark"></a>
 </p>
 </br>
 
