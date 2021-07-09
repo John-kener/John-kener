@@ -17,7 +17,7 @@
   <samp>
     I'm John Kener
     <br>
-    Currently studying coding ...!
+    Currently studying Programming y📖🎓
     <br>
     OWNER OF THE SL CYBER WARRIORS COMMUNITY
   </samp>
@@ -77,7 +77,7 @@
 </br>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
+<img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="8%">
   <br>
 
 ### Show some ❤️ by starring some of the repositories!
