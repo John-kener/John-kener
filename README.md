@@ -57,7 +57,9 @@
 <a href="https://github.com/john-kener"><img title="John-kener" src="https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-kener&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="john-kener" /></p>
+<a href="https://github.com/john-kener" align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=chartreuse-dark" />
+</a>
 
 </br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
