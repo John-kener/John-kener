@@ -34,7 +34,6 @@
 <p align="center">
 <a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
 </p>
-
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 <a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
@@ -42,27 +41,23 @@
 </br>
 </br>
 
+**Languages and Tools:**
 
-
-
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://i.pinimg.com/originals/9c/76/5c/9c765c3b37eb5bdf9af0984eef4351dd.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="25" src="https://i.pinimg.com/originals/9c/76/5c/9c765c3b37eb5bdf9af0984eef4351dd.jpg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://blog.scottlogic.com/jporter/assets/kotlin-logo.png"></code>
+<code><img height="25" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bash/bash.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+<br>
 <div>
 <img height="70" align = "center" width=100% src="https://github-profile-trophy.vercel.app/?username=John-Kener&column=7"/>
 </div>
