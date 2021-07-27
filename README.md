@@ -57,12 +57,10 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<br>
 <div>
 <img height="70" align = "center" width=100% src="https://github-profile-trophy.vercel.app/?username=John-Kener&column=7"/>
 </div>
 
-<br>
 <br>
 
 <a href="https://github.com/john-kener"><img title="John-kener" src="https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
