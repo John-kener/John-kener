@@ -23,8 +23,6 @@
   </samp>
 </b>
 </p>
-
-<br>
 <div align="center">
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=john-kener&label=Views&color=blue&style=plastic" alt="vimalcvs" /> </p>
 </div>
