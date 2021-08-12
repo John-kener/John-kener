@@ -32,7 +32,7 @@
 <div align="center">
 <br/>
 <p align="center">
-<a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img title="Youtube" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img title="Youtube" src="https://img.shields.io/badge/Youtube-SL-red?style=for-the-badge&logo=youtube"></a>
 </br>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
