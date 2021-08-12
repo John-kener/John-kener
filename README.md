@@ -32,8 +32,8 @@
 <div align="center">
 <br/>
 <p align="center">
-<a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img title="Youtube" src="https://img.shields.io/badge/SL-CYBER-WARRIORS-blue?style=for-the-badge&logo=Y"></a>
-</p>
+<a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img title="Youtube" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+</br>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
 <a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
