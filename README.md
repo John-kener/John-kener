@@ -17,7 +17,7 @@
   <samp>
     I'm John Kener
     <br>
-    Currently studying Programming y📖🎓
+    Currently studying Programming 📖🎓
     <br>
     OWNER OF THE SL CYBER WARRIORS COMMUNITY
   </samp>
@@ -32,7 +32,7 @@
 <div align="center">
 <br/>
 <p align="center">
-<a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img title="Youtube" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100057560824177"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
