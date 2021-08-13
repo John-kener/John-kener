@@ -25,6 +25,8 @@
 </p>
 <div align="center">
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=john-kener&label=Views&color=blue&style=plastic" alt="vimalcvs" /> </p>
+- [![GitHub followers](https://img.shields.io/github/followers/john-kener.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/john-kener?tab=followers)
+
 </div>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <div align="center">
