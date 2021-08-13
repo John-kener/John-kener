@@ -86,7 +86,7 @@
 </p>
 </br>
 
-<div align="center">
+<div align="center" >
 <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="8%">
   <br>
 
